@@ -895,4 +895,4 @@ For technical support or questions:
 
 **Built with ❤️ for college communities worldwide**
 
-*Last updated: January 2025*
+*Last updated: August 2025*
